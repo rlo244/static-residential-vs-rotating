@@ -1,0 +1,1 @@
+# static-residential-vs-rotating
